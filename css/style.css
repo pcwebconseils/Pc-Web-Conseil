@@ -22,7 +22,9 @@ a:hover {
 }
 
 body {
-    background-image: url(../img/background.svg);
+    /*background-image: url(../img/fond1.3.svg);*/
+    background: rgb(2,0,36);
+background: linear-gradient(145deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgb(44, 123, 131) 100%);
     color: white;
     width: 100%;
 }
